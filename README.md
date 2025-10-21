@@ -65,7 +65,7 @@ prompts open the following scrollable guide.
 
 *****NOTE**************************************
 -This is an ongoing project, the code of this will be released 
-2025-08-19
+2026-08-19
 
 -This is the first version. Please E-mail ahmadshams.io@outlook.com
 if you would like the source code for the software.
